@@ -1,3 +1,4 @@
+//NB:cette partie sera associée aux autres classes AalyticsCounter
 package com.hemebiotech.analytics;
 
 import java.io.IOException;
