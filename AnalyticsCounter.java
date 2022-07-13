@@ -1,3 +1,4 @@
+// cette partie du code est l'une des parties a rassemblée 
 package com.hemebiotech.analytics;
 
 import java.io.IOException;
